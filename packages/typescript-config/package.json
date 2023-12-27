@@ -1,0 +1,23 @@
+{
+  "name": "@kalilasc/typescript-config",
+  "version": "0.0.0",
+  "private": false,
+  "description": "Typecript configuration used by Kalil Aziz.",
+  "main": "index.js",
+  "license": "MIT",
+  "author": "Kalil Aziz Santos Chami",
+  "repository": {
+    "url": "kalilaziz/kalilasc"
+  },
+  "peerDependencies": {
+    "typescript": ">=4"
+  },
+  "peerDependenciesMeta": {
+    "typescript": {
+      "optional": false
+    }
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
