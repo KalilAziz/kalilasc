@@ -15,10 +15,10 @@ npm install --save-dev @kalilasc/eslint-config
 ```
 {
   "root": true,
-  "extends": "@kalilasc/eslint-config/react-internal.js",
+  "extends": "@kalilasc/eslint-config/nextjs",
   "parser": "@typescript-eslint/parser",
   "parserOptions": {
-    "project": "./tsconfig.json"
+    "project": true
   }
 }
 ```
@@ -28,10 +28,10 @@ npm install --save-dev @kalilasc/eslint-config
 ```
 module.exports = {
   root: true,
-  extends: ["@kalilasc/eslint-config/react-internal.js"],
+  extends: ["@kalilasc/eslint-config/nextjs"],
   parser: "@typescript-eslint/parser",
   parserOptions: {
-    project: "./tsconfig.json",
+    project: true,
   },
 };
 

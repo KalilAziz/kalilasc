@@ -5,11 +5,14 @@
     "build": "turbo build",
     "dev": "turbo dev",
     "lint": "turbo lint",
-    "format": "prettier --write \"**/*.{ts,tsx,md}\""
+    "format": "prettier --write \"**/*.{ts,tsx,md}\"",
+    "changeset": "changeset",
+    "version": "changeset version",
+    "release": "changeset publish"
   },
   "devDependencies": {
-    "@repo/eslint-config": "*",
-    "@repo/typescript-config": "*",
+    "@kalilasc/eslint-config": "*",
+    "@kalilasc/typescript-config": "*",
     "prettier": "^3.1.0",
     "turbo": "latest"
   },
@@ -19,5 +22,9 @@
   "packageManager": "npm@10.2.3",
   "workspaces": [
     "packages/*"
-  ]
+  ],
+  "dependencies": {
+    "@changesets/cli": "^2.27.1"
+  },
+  "version": ""
 }

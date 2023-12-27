@@ -14,8 +14,7 @@ npm install --save-dev @kalilasc/typescript-config
 2. Create a `tsconfig.json` file extending the config:
 ```
 {
-  "extends": "@kalilasc/typescript-config/react-library.json",
-  "include": ["src"],
+  "extends": "@kalilasc/typescript-config/node.json",
   "exclude": ["node_modules"]
 }
 ```

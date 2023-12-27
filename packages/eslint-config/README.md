@@ -12,6 +12,5 @@ npm install --save-dev @kalilasc/eslint-config
 ```
 
 2. Choose where you want to extend the config from:
-- [React](./react.md)
-- [NextJs](./next.md)
-- [Node](./node.md)
+- [NextJs](https://github.com/KalilAziz/kalilasc/blob/main/packages/eslint-config/nextjs.md)
+- [Node](https://github.com/KalilAziz/kalilasc/blob/main/packages/eslint-config/node.md)

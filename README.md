@@ -1,18 +1,17 @@
 # Monorepo for Eslint and Typescript Base Configuration
 
-This monorepo contains packages that offer base configurations for Eslint and Typescript in different contexts: `React`, `Next.js` and `Node.js` applications. Use these settings to ensure consistency and good code practices across your projects.
+This monorepo contains packages that offer base configurations for Eslint and Typescript in different contexts: `Next.js` and `Node.js` applications. Use these settings to ensure consistency and good code practices across your projects.
 
 ## Packages
 
 1. eslint-config
-- [eslint-config/react](packages/eslint-config/react.md)
-- [eslint-config/next](packages/eslint-config/next.md)
-- [eslint-config/node](packages/eslint-config/node.md)
+- [eslint-config/nextjs](https://github.com/KalilAziz/kalilasc/blob/main/packages/eslint-config/nextjs.md)
+- [eslint-config/nodejs](https://github.com/KalilAziz/kalilasc/blob/main/packages/eslint-config/node.md)
+
 
 2. typescript-config
-- [typescript-config/react](packages/typescript-config/react.md)
-- [typescript-config/next](packages/typescript-config/next.md)
-- [typescript-config/node](packages/typescript-config/node.md)
+- [typescript-config/nextjs](https://github.com/KalilAziz/kalilasc/blob/main/packages/typescript-config/nextjs.md)
+- [typescript-config/nodejs](https://github.com/KalilAziz/kalilasc/blob/main/packages/typescript-config/node.md)
 
 ## What's inside?
 

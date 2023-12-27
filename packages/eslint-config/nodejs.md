@@ -14,12 +14,7 @@ npm install --save-dev @kalilasc/eslint-config
 2. Create a `.eslintrc.json` file extending the config:
 ```
 {
-  "root": true,
-  "extends": "@kalilasc/eslint-config/next.js",
-  "parser": "@typescript-eslint/parser",
-  "parserOptions": {
-    "project": true
-  }
+  "extends": "@kalilasc/eslint-config/nodejs"
 }
 ```
 
@@ -27,12 +22,6 @@ npm install --save-dev @kalilasc/eslint-config
 
 ```
 module.exports = {
-  root: true,
-  extends: ["@repo/eslint-config/next.js"],
-  parser: "@typescript-eslint/parser",
-  parserOptions: {
-    project: true,
-  },
+  extends: '@kalilasc/eslint-config/node.js',
 };
-
 ```
