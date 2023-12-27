@@ -8,7 +8,7 @@
 
 1. Install the dependencies
 ```
-npm i eslint @kalilasc/typescript-config -D
+npm install --save-dev @kalilasc/eslint-config
 ```
 
 2. Create a `.eslintrc.json` file extending the config:

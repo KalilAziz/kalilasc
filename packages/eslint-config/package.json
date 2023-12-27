@@ -7,19 +7,11 @@
   "repository": {
     "url": "kalilaziz/kalilasc"
   },
-  "peerDependencies": {
-    "eslint": "^8.0.0",
-    "typescript": ">=4"
-  },
-  "peerDependenciesMeta": {
-    "typescript": {
-      "optional": false
-    }
-  },
   "license": "MIT",
   "files": [
     "library.js",
     "next.js",
+    "node.js",
     "react-internal.js"
   ],
   "devDependencies": {

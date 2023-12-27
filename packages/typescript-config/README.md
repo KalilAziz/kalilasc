@@ -8,7 +8,7 @@
 
 1. Install the dependencies
 ```
-npm i eslint @kalilasc/typescript-config -D
+npm install --save-dev @kalilasc/typescript-config
 ```
 
 2. Choose where you want to extend the config from:

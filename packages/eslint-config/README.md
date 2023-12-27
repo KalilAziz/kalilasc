@@ -8,7 +8,7 @@
 
 1. Install the dependencies
 ```
-npm i eslint @kalilasc/eslint-config -D
+npm install --save-dev @kalilasc/eslint-config
 ```
 
 2. Choose where you want to extend the config from:
