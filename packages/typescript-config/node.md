@@ -15,6 +15,12 @@ npm install --save-dev @kalilasc/typescript-config
 ```
 {
   "extends": "@kalilasc/typescript-config/node.json",
+    "compilerOptions": {
+    "baseUrl": ".",
+		"paths": {
+      "@/*": ["./src/*"],
+    }
+  },
   "exclude": ["node_modules"]
 }
 ```
