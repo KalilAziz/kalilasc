@@ -6,12 +6,12 @@ This monorepo contains packages that offer base configurations for Eslint and Ty
 
 1. eslint-config
 - [eslint-config/nextjs](https://github.com/KalilAziz/kalilasc/blob/main/packages/eslint-config/nextjs.md)
-- [eslint-config/nodejs](https://github.com/KalilAziz/kalilasc/blob/main/packages/eslint-config/node.md)
+- [eslint-config/nodejs](https://github.com/KalilAziz/kalilasc/blob/main/packages/eslint-config/nodejs.md)
 
 
 2. typescript-config
 - [typescript-config/nextjs](https://github.com/KalilAziz/kalilasc/blob/main/packages/typescript-config/nextjs.md)
-- [typescript-config/nodejs](https://github.com/KalilAziz/kalilasc/blob/main/packages/typescript-config/node.md)
+- [typescript-config/nodejs](https://github.com/KalilAziz/kalilasc/blob/main/packages/typescript-config/nodejs.md)
 
 ## What's inside?
 

@@ -14,7 +14,7 @@ npm install --save-dev @kalilasc/typescript-config
 2. Create a `tsconfig.json` file extending the config:
 ```
 {
-  "extends": "@kalilasc/typescript-config/node.json",
+  "extends": "@kalilasc/typescript-config/nodejs.json",
     "compilerOptions": {
     "baseUrl": ".",
 		"paths": {

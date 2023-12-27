@@ -1,6 +1,6 @@
 {
   "name": "@kalilasc/typescript-config",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "private": false,
   "description": "Typecript configuration used by Kalil Aziz.",
   "main": "index.js",
